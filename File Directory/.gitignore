@@ -1,0 +1,32 @@
+Unique Asset File Saving Structure
+	Root Directory
+	byGRIMM_Inc/
+	Project Level
+	byGRIMM_Solutions/
+	Whimsy_Tales/
+	MindGasm/
+	File_by_Fire/
+	Asset Type
+	Articles/
+	Videos/
+	Podcasts/
+	Blogs/
+	Infographics/
+	eBooks/
+	Whitepapers/
+	Case_Studies/
+	Webinars/
+	Tutorials_Guides/
+	Interviews/
+	Reviews/
+	Poetry/
+	Fiction_Short_Stories/
+	Newsletters/
+	Quizzes_Interactive_Content/
+	Visual_Art_Graphics/
+	Curated_Content/
+File Naming Convention
+	ProjectName_AssetType_UniqueID_Title_Date.fileformat
+Example
+	byGRIMM_Solutions/Articles/001_Organizing_Files_20240716.md
+	Whimsy_Tales/Podcasts/002_Storytime_Episode1_20240716.mp3
